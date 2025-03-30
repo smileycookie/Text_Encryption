@@ -2,16 +2,12 @@
 """Text Encryption/Decryption Tool.ipynb
 
 #Created By: Ripunjay Singh
-#Creation Date: 
-#Last Modified: 
+#Creation Date: 11-March-2025
+#Last Modified: 29-March-2025
+#LinkedIn ID: //www.linkedin.com/in/curicodemoore/
 
 # **Text Encryption**
 """
-
-# Date of Creation: 11 -March - 2025
-# Creator:Ripunjay Singh
-# LinkedIn ID:https://www.linkedin.com/in/curicodemoore/
-
 """## **Importing Different Libraries**"""
 
 !pip install pycryptodome #Installing Pycryptodome for
